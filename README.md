@@ -1,6 +1,6 @@
 # car-sales-rank
 
-国内汽车销量排行榜查询与 Excel 生成工具 —— 马维斯（Marvis）技能包。
+国内汽车销量排行榜查询与 Excel 生成工具
 
 ## 功能
 
@@ -31,9 +31,6 @@ car-sales-rank/
 └── README.md
 ```
 
-## 安装到马维斯
-
-将整个 `car-sales-rank` 文件夹放入马维斯的 `skills/market/` 目录即可。
 
 ## Excel 特性
 
